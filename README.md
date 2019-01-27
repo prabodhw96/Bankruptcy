@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Bankruptcy Prediction
 
 ## Overview
 Bankruptcy prediction is of great importance in economic decision making, which aims to assess the financial condition of a company and its future perspectives within the context of longterm operation on the market. This project focuses bankruptcy prediction based on one real world data set, mainly focusing on tackling imbalance and the comparison of different methods.
